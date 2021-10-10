@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to SihCi's Personal Website</title>
+  </head>
+  <body>
+    <h1>我是張思琪，台南人，今年21歲，目前就讀於國立成功大學歷史學系。我的興趣是唱歌、打排球，除此之外，我寒暑假也經常參加營隊，至台南偏鄉學校教學生。我平時喜歡參與辦給偏鄉國中小學，具有服務性質且與教育、教學相關之營隊，也有參與志工服務計畫，教導偏鄉學校的孩子，而我目前是成大師培中心的師資生，正在修習教育學程，同時也雙主修心理系。我在大學時期的主修正好可以與我的興趣結合，因此我平時便樂於學習設計教案與教學，以讓我的歷史專長能夠在教育上幫助學生提升閱讀理解與思辨的能力。而我的心理學背景或許能幫助我在教學現場面對有特殊狀況的學生，或是當學生有任何心理狀況或生涯疑問時，能夠及時發現、處理問題，或提供具有實質幫助的建議等能力。目前多關注偏鄉教育議題，請各位多多指教。</h1>
+    <h2>我平時喜歡參與辦給偏鄉國中小學，具有服務性質且與教育、教學相關之營隊，也有參與志工服務計畫，教導偏鄉學校的孩子，而我目前是成大師培中心的師資生，正在修習教育學程，同時也雙主修心理系。我在大學時期的主修正好可以與我的興趣結合，因此我平時便樂於學習設計教案與教學，以讓我的歷史專長能夠在教育上幫助學生提升閱讀理解與思辨的能力。而我的心理學背景或許能幫助我在教學現場面對有特殊狀況的學生，或是當學生有任何心理狀況或生涯疑問時，能夠及時發現、處理問題，或提供具有實質幫助的建議等能力。目前多關注偏鄉教育議題，請各位多多指教。</h2>
+    <h3>目前多關注偏鄉教育議題，請多多指教。</h3>
+  </body>
+</html>
+
+$ git add index.html
+
+$ git commit -m "add index"
+[master (root-commit) 80450b2] add index
+ 1 file changed, 10 insertions(+)
+ create mode 100644 index.html
+ 
+ $ git remote add origin https://github.com/changsihci/shihchi.github.io.git
+
+$ git push -u origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 327 bytes | 327.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/changsihci/shihchi.github.io.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
